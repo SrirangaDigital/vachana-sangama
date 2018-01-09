@@ -1,0 +1,29 @@
+{
+  "albums": [
+    {
+      "id": "album_001",
+      "title": "ವಚನ ಸಂಗಮ - ೧",
+      "numOfSongs": 13
+    },
+    {
+      "id": "album_002",
+      "title": "ವಚನ ಸಂಗಮ - ೨",
+      "numOfSongs": 14
+    },
+    {
+      "id": "album_003",
+      "title": "ವಚನ ಸಂಗಮ - ೩",
+      "numOfSongs": 14
+    },
+    {
+      "id": "album_004",
+      "title": "ವಚನ ಸಂಗಮ - ೪",
+      "numOfSongs": 21
+    },
+    {
+      "id": "album_005",
+      "title": "ವಚನ ಸಂಗಮ - ೫",
+      "numOfSongs": 22
+    }
+  ]
+}

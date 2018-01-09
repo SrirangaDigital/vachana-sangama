@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VachanaSangama</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_add_favourite">Add to Favourites</string>
+    <string name="action_play_next">Play Next</string>
+    <string name="backdrop_title">ವಚನ ಸಂಗಮ</string>
+    <string name="backdrop_subtitle">ಶಿವಶರಣರ ವಚನಗಳು</string>
+    <string name="audio_source_server">http://192.155.224.66/stage/files/VachanaSangama/128/</string>
+</resources>
