@@ -1,4 +1,4 @@
-package com.srirangadigital.tungalahari;
+package com.srirangadigital.vachanasangama;
 
 import android.content.Intent;
 import android.support.design.widget.AppBarLayout;
@@ -9,7 +9,6 @@ import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
-import android.util.Log;
 import android.view.View;
 import android.widget.ImageView;
 import android.widget.TextView;

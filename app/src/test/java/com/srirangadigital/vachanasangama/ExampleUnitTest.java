@@ -1,4 +1,4 @@
-package com.srirangadigital.tungalahari;
+package com.srirangadigital.vachanasangama;
 
 import org.junit.Test;
 

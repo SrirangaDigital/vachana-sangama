@@ -1,4 +1,4 @@
-package com.srirangadigital.tungalahari;
+package com.srirangadigital.vachanasangama;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

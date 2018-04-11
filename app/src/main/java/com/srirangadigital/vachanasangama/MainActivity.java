@@ -1,4 +1,4 @@
-package com.srirangadigital.tungalahari;
+package com.srirangadigital.vachanasangama;
 
 import android.content.Intent;
 import android.content.res.Resources;
@@ -13,9 +13,7 @@ import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.util.TypedValue;
 import android.view.View;
-import android.widget.AdapterView;
 import android.widget.ImageView;
-import android.widget.Toast;
 
 import com.bumptech.glide.Glide;
 

@@ -1,4 +1,4 @@
-package com.srirangadigital.tungalahari;
+package com.srirangadigital.vachanasangama;
 
 import android.app.NotificationManager;
 import android.content.Context;
